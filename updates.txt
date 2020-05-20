@@ -1,0 +1,12 @@
+;aiu;
+
+[Update]
+Name = Your Application
+ProductVersion = 2.0.0
+URL = https://api.github.com/MihaiSTest/PublicTest/releases
+Size = 2428416
+SHA256 = 93882AFF74D70473270C0829CDDFC833839BDB0DE801D9B2AB91CDD3F722707F
+MD5 = 690e7740263cbcd0fcc72713f97c3af0
+ServerFileName = test1V2.msi
+RegistryKey = HKUD\Software\Your Company\Your Application\Version
+Version = 2.0.0
